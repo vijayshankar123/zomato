@@ -1,5 +1,1 @@
-{
-  "mongoURI":
-    "mongodb+srv://restaurant:restaurant123@restaurant-jclmu.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "kolla"
-}
+
